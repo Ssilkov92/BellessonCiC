@@ -1,5 +1,5 @@
 package org.example;
-
+//ffff
 import  java.util.Scanner;
 import java.util.Stack;
 
